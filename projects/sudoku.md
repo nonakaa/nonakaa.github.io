@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sudoku.png
 title: Recursive Sudoku Solver
-//permalink: projects/sudoku
+permalink: projects/sudoku
 date: 2017
 labels:
   - Java
