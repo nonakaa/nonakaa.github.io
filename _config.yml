@@ -6,7 +6,11 @@ title: Aaron Nonaka | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://nonakaa.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
+<<<<<<< HEAD
 baseurl: " "
+=======
+baseurl: "/"
+>>>>>>> 222d00968b589e87acbe49ef868ebbf3ca706ecf
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
