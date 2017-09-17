@@ -6,7 +6,7 @@ title: Math Space Invaders
 permalink: projects/mathSpaceInvaders
 date: 2014
 labels:
-  -JavaScript
+  -Javascript
   -Python
 summary:My partner and I made a space invaders math game for the STEM Conference
 ---
