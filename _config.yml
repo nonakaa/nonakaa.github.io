@@ -7,7 +7,7 @@ title: Aaron Nonaka | Professional Portfolio
 url: "https://nonakaa.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 <<<<<<< HEAD
-baseurl: " "
+baseurl: ""
 =======
 baseurl: "/"
 >>>>>>> 222d00968b589e87acbe49ef868ebbf3ca706ecf
