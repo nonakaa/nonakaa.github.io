@@ -76,7 +76,7 @@
       "position": "Sales Associate",
       "website": "",
       "startDate": "2017-04-01",
-      "endDate": "present",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Assist customers"
@@ -88,6 +88,9 @@
       
   ],
   "awards": [
+    {
+    "Eagle Scout": "2015"
+    }
     
   ],
   "references": [
