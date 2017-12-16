@@ -8,7 +8,7 @@ date: 2014
 labels:
   -Javascript
   -Python
-summary:My partner and I made a space invaders math game for the STEM Conference
+summary: My partner and I made a space invaders math game for the STEM Conference
 ---
 
 
