@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pewpew.png
 title: Math Space Invaders
-permalink: projects/mathSpaceInvaders
+permalink: projects/mathSpaceInvaderss
 date: 2014
 labels:
   -Javascript
